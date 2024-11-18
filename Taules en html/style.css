@@ -1,0 +1,14 @@
+/*table styles*/
+table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid rgb(0, 0, 0);
+}
+  
+/*html font*/
+html{
+  font-family: cursive;
+  /*background color, but gradient*/
+  background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+}
